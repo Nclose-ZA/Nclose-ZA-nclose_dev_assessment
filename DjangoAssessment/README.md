@@ -6,7 +6,7 @@
 - [Assignment](#assignment)
 
 ### Description
-This is a basic Django assessment to gauge your personality is your code.
+This is a basic Django assessment to gauge your personality in your code.
 Complete the below [assignment](#assignment) while implementing good code practices as the entire approach, code and project will contribute to the outcome.
 There is no time limit, but we believe this assignment should not take you longer than an hour or two.
 Marks will be deducted for copy/paste code, including chatGPT. We will know ....
