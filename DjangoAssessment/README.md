@@ -38,6 +38,6 @@ Your repo must include a readme and changelog, with extra points for documentati
     + Create an endpoint for a user to retrieve formatted data from an external website.
     + This website collects phishing url's which can be used as part of threat intelligence for Cyber Security.
     + Download the latest file from the following [link](http://data.phishtank.com/data/online-valid.csv)
-    + Convert the data to a serialized json object and return the response ready for the ui to display.
+    + Convert the data to a serialized `json` object and return the response ready for the ui to display.
     + The data will be displayed in a table.
-- A `mysqldump` with test data should be provided in a directory in or your repo.
+- A `mysqldump` with test data should be provided in a directory in your repo.
