@@ -6,11 +6,11 @@
 - [Assignment](#assignment)
 
 ### Description
-This is a basic Django assissment to guage your personality is your code.
-Complete the below [assignment](#assignment) while implementing good code practices as the entire approach, code and project will continute to the outcome.
+This is a basic Django assessment to gauge your personality is your code.
+Complete the below [assignment](#assignment) while implementing good code practices as the entire approach, code and project will continue to the outcome.
 There is no time limit, but we this assignment should not take you longer than an hour or two.
 Marks will be deducted for copy/paste code, including chatGPT. We will know ....
-The goal is not to trip you up but rather to see how you aproach an assigment and the end product you deliver.
+The goal is not to trip you up but rather to see how you approach an assignment and the end product you deliver.
 Your repo must include a readme and changelog, with extra points for documentation.
 
 ### Preface
