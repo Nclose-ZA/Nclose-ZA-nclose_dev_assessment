@@ -23,7 +23,7 @@ Your repo must include a readme and changelog, with extra points for documentati
 - Create a new Django project with a mysql database that incorporates class based viewsets and utilizes Django Rest Framework for serialization.
 - A docker-compose file has been provided for mysql.
 - All views must be authenticated using session cookies.
-- Extra points for group permission but nor required.
+- Extra points for group permission but not required.
 - Core project
     + You have vendors, and each vendor has multiple products.
     + You have users and clients, each user can have multiple clients assigned to them.
@@ -37,6 +37,6 @@ Your repo must include a readme and changelog, with extra points for documentati
     + Create an endpoint for a user to retrieve formatted data from an external website.
     + This website collects phishing url's which can be used as part of threat intelligence for Cyber Security.
     + Download the latest file from the following [link](http://data.phishtank.com/data/online-valid.csv)
-    + Convert the data to a serialized json object ready for the ui to display and return the response.
+    + Convert the data to a serialized json object and return the response ready for the ui to display.
     + The data will be displayed in a table.
 - A `mysqldump` with test data should be provided in a directory in or your repo.
