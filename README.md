@@ -4,6 +4,7 @@
 + [Description](#description)
 + [Frontend Candidate](#frontend-candidate)
     - [Assessment](Frontend%20Assesment/Challenge.md)
++ [Django Assessment](DjangoAssessment/README.md#table-of-content)
 + [Project Links](#project-links)
 
 ---
