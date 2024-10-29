@@ -8,20 +8,20 @@
 ### Description
 This is a basic Django assessment to gauge your personality is your code.
 Complete the below [assignment](#assignment) while implementing good code practices as the entire approach, code and project will contribute to the outcome.
-There is no time limit, but we this assignment should not take you longer than an hour or two.
+There is no time limit, but we believe this assignment should not take you longer than an hour or two.
 Marks will be deducted for copy/paste code, including chatGPT. We will know ....
 The goal is not to trip you up but rather to see how you approach an assignment and the end product you deliver.
 Your repo must include a readme and changelog, with extra points for documentation.
 
 ### Preface
-- On your personal Github account, create a public repo to the name of `django_assessment`.
+- On your personal Github account, create a public repo with the name of `django_assessment`.
 - You can use as many or as few Python modules as you like.
 - You can create as many branches and commits as you need, but we will only be reviewing your `production` branch.
 - Once complete, you can send the link for us to clone and review.
 
 ### Assignment
 - Create a new Django project with a mysql database that incorporates class based viewsets and utilizes Django Rest Framework for serialization.
-- A docker-compose file is provided.
+- A docker-compose file has been provided for mysql.
 - All views must be authenticated using session cookies.
 - Extra points for group permission but nor required.
 - Core project
