@@ -23,6 +23,7 @@ Your repo must include a readme and changelog, with extra points for documentati
 - Create a new Django project with a mysql database that incorporates class based viewsets and utilizes Django Rest Framework for serialization.
 - A docker-compose file has been provided for mysql.
 - All views must be authenticated using session cookies.
+- No templates are required.
 - Extra points for group permission but not required.
 - Core project
     + You have vendors, and each vendor has multiple products.
