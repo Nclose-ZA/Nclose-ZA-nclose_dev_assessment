@@ -1,4 +1,4 @@
-# Djang Backend Assessment
+# Django Backend Assessment
 
 ## Table of Content
 - [Description](#description)
